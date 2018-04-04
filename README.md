@@ -1,2 +1,3 @@
 # virtual-world-project
-Unreal Engine
+-Unreal Engine
+-Testing with HTC Vive
