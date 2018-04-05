@@ -3,5 +3,5 @@
 -Testing with HTC Vive
 
 |Team Members|
-Coding- Pleasant and mentalmosh
-3d modeling- Ethan and Jack
+Coding- Pleasant B. (Bawllp) and Michael S. (mentalmosh)
+3d modeling- Ethan A. and Jack F.
